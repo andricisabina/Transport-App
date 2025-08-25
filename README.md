@@ -22,6 +22,5 @@ It is a **desktop application** designed to help manage transport routes, schedu
 - **Language**: C#  
 - **Framework**: .NET / Windows Forms (WinForms)  
 - **IDE**: Visual Studio  
-- **Database**: (if used) SQL Server / local storage  
 
 
